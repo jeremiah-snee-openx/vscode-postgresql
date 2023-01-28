@@ -1,6 +1,6 @@
 {
   "name": "vscode-postgresql",
-  "displayName": "PostgreSQL",
+  "displayName": "PostgreSQL[UNMAINTAINED]",
   "version": "0.2.0",
   "description": "Develop Postgres everywhere",
   "publisher": "ms-ossdata",
